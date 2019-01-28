@@ -37,8 +37,8 @@ namespace AlgorithmHW5
 
             #region Определение правильности последовательности скобок
             //string chain = "({})()[]{}";
-            string chain = "{){][)()[";
-            Console.WriteLine($"Последовательность верна? => {BracketChain.IsCorrect(chain)}");
+            //string chain = "{){][)()[";
+            //Console.WriteLine($"Последовательность верна? => {BracketChain.IsCorrect(chain)}");
             #endregion
 
             Console.ReadLine();
