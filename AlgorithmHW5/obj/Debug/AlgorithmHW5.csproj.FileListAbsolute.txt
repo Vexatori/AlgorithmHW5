@@ -1,0 +1,10 @@
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\bin\Debug\AlgorithmHW5.exe.config
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\bin\Debug\AlgorithmHW5.exe
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\bin\Debug\AlgorithmHW5.pdb
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\obj\Debug\AlgorithmHW5.csprojAssemblyReference.cache
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\obj\Debug\AlgorithmHW5.csproj.CoreCompileInputs.cache
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\obj\Debug\AlgorithmHW5.exe
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\obj\Debug\AlgorithmHW5.pdb
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\bin\Debug\System.ValueTuple.dll
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\bin\Debug\System.ValueTuple.xml
+F:\Проекты VS\AlgorithmHW5\AlgorithmHW5\obj\Debug\AlgorithmHW5.csproj.CopyComplete
